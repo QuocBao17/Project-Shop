@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.ac5290bf.css",
-    "main.js": "./static/js/main.10dc4b2d.js",
-    "static/js/787.159e6594.chunk.js": "./static/js/787.159e6594.chunk.js",
-    "static/media/logo.png": "./static/media/logo.79b246206acbe603d012.png",
-    "index.html": "./index.html",
-    "main.ac5290bf.css.map": "./static/css/main.ac5290bf.css.map",
-    "main.10dc4b2d.js.map": "./static/js/main.10dc4b2d.js.map",
-    "787.159e6594.chunk.js.map": "./static/js/787.159e6594.chunk.js.map"
+    "main.css": "/QuocBao17/Project-Shop.git/static/css/main.ac5290bf.css",
+    "main.js": "/QuocBao17/Project-Shop.git/static/js/main.c5fe8a82.js",
+    "static/js/787.159e6594.chunk.js": "/QuocBao17/Project-Shop.git/static/js/787.159e6594.chunk.js",
+    "static/media/logo.png": "/QuocBao17/Project-Shop.git/static/media/logo.79b246206acbe603d012.png",
+    "index.html": "/QuocBao17/Project-Shop.git/index.html",
+    "main.ac5290bf.css.map": "/QuocBao17/Project-Shop.git/static/css/main.ac5290bf.css.map",
+    "main.c5fe8a82.js.map": "/QuocBao17/Project-Shop.git/static/js/main.c5fe8a82.js.map",
+    "787.159e6594.chunk.js.map": "/QuocBao17/Project-Shop.git/static/js/787.159e6594.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac5290bf.css",
-    "static/js/main.10dc4b2d.js"
+    "static/js/main.c5fe8a82.js"
   ]
 }
