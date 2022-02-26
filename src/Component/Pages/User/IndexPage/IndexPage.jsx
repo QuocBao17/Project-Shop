@@ -63,6 +63,7 @@ const IndexPage =()=>{
             </svg>
             <div className="noti">
             <p>Trang web đang trong quá trình phát triển, hẹn gặp bạn vào một ngày đẹp trời ^ ^</p>
+            <p>Để truy cập vào trang admin vui lòng đăng nhập với tài khoản admin@gmail.com password 123123</p>
             </div>
             <div className="button">
                 <button onClick={()=>signOutButton()}>Trở về</button>
